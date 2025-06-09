@@ -1,7 +1,9 @@
 Budget App
+
 Welcome to Budget App, your personal financial companion designed to help you manage your money effectively, track your spending, set financial goals, and gain valuable insights into your financial habits.
 
 How It Works
+
 Budget App is a comprehensive Android application built with Kotlin and XML for the user interface. It leverages Google Firebase for backend services, ensuring secure user authentication and real-time data storage.
 
 Here's a breakdown of its core functionalities:
